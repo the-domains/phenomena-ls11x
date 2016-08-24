@@ -1,0 +1,14 @@
+layout_spectrum: 0.6861156814265996
+typography_spectrum: 0.6759287803433836
+color:
+  brandStrength: 0.0007435458246618509
+  lightness: 0.3915326939895749
+  saturation: 0.2008019674103707
+  rhythmicContrast: 0.35871924296952784
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Phenomena
